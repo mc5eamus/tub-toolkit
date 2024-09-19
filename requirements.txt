@@ -1,0 +1,5 @@
+python-pptx
+bs4
+tenacity
+openai
+tiktoken

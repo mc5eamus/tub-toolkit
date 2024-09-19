@@ -1,0 +1,61 @@
+Storage: 118085 USD in May 2024, increase of 3% MoM, growth of 5% QoQ.
+Virtual Machines: 44338 USD in May 2024, decrease of 14% MoM, growth of -10% QoQ.
+Bandwidth: 21746 USD in May 2024, decrease of 2% MoM, growth of -1% QoQ.
+Cloud Services: 13988 USD in May 2024, increase of 20% MoM, growth of 8% QoQ.
+Power Apps: 13917 USD in May 2024, decrease of 4% MoM, growth of 3% QoQ.
+SQL Database: 10129 USD in May 2024, decrease of 7% MoM, growth of 16% QoQ.
+Log Analytics: 9463 USD in May 2024, increase of 12% MoM, growth of 18% QoQ.
+Azure App Service: 8906 USD in May 2024, increase of 9% MoM, growth of 15% QoQ.
+Backup: 3282 USD in May 2024, increase of 2% MoM, growth of 13% QoQ.
+Virtual Machines Licenses: 3140 USD in May 2024, increase of 5% MoM, growth of 10% QoQ.
+Virtual Network: 2799 USD in May 2024, increase of 16% MoM, growth of 35% QoQ.
+Azure DevOps: 2758 USD in May 2024, increase of 6% MoM, growth of 44% QoQ.
+API Management: 2727 USD in May 2024, increase of 9% MoM, growth of 26% QoQ.
+Azure Database for PostgreSQL: 2638 USD in May 2024, increase of 12% MoM, growth of 126% QoQ.
+Azure Arc: 2532 USD in May 2024, increase of 3% MoM, growth of 0% QoQ.
+Azure Databricks: 2512 USD in May 2024, increase of 6% MoM, growth of 161% QoQ.
+ExpressRoute: 2013 USD in May 2024, increase of 4% MoM, growth of 2% QoQ.
+GitHub: 1823 USD in May 2024, decrease of 41% MoM, growth of 47% QoQ.
+Azure Cognitive Search: 1764 USD in May 2024, increase of 7% MoM, growth of -9% QoQ.
+Azure DNS: 1622 USD in May 2024, increase of 1% MoM, growth of 2% QoQ.
+VPN Gateway: 1616 USD in May 2024, increase of 23% MoM, growth of 34% QoQ.
+Azure DDOS Protection: 1250 USD in May 2024, increase of 8% MoM, growth of 5% QoQ.
+Azure Arc Enabled Databases: 1220 USD in May 2024, decrease of 21% MoM, growth of 0% QoQ.
+Microsoft Defender for Cloud: 1161 USD in May 2024, increase of 15% MoM, growth of 9% QoQ.
+Azure Cosmos DB: 1025 USD in May 2024, increase of 6% MoM, growth of 5% QoQ.
+Azure Kubernetes Service: 889 USD in May 2024, decrease of 9% MoM, growth of -9% QoQ.
+Cognitive Services: 827 USD in May 2024, increase of 1% MoM, growth of 82% QoQ.
+Azure Sentinel: 646 USD in May 2024, increase of 3% MoM, growth of 0% QoQ.
+Azure Synapse Analytics: 597 USD in May 2024, decrease of 6% MoM, growth of 0% QoQ.
+Azure Site Recovery: 543 USD in May 2024, decrease of 25% MoM, growth of 64% QoQ.
+Key Vault: 469 USD in May 2024, increase of 12% MoM, growth of 19% QoQ.
+Azure Bastion: 451 USD in May 2024, increase of 11% MoM, growth of 8% QoQ.
+Azure Monitor: 410 USD in May 2024, increase of 16% MoM, growth of 19% QoQ.
+Logic Apps: 360 USD in May 2024, increase of 15% MoM, growth of 8% QoQ.
+Azure Cache for Redis: 354 USD in May 2024, increase of 3% MoM, growth of 5% QoQ.
+Azure Database for MariaDB: 319 USD in May 2024, increase of 16% MoM, growth of 19% QoQ.
+Azure Policy: 315 USD in May 2024, increase of 0% MoM, growth of 0% QoQ.
+Azure Active Directory Domain Services: 283 USD in May 2024, increase of 3% MoM, growth of 8% QoQ.
+Azure Dedicated Host: 282 USD in May 2024, increase of 2% MoM, growth of 3% QoQ.
+Azure Cognitive Services: 278 USD in May 2024, increase of 1% MoM, growth of 1% QoQ.
+Azure Container Registry: 265 USD in May 2024, increase of 6% MoM, growth of 8% QoQ.
+Azure IoT Hub: 228 USD in May 2024, increase of 6% MoM, growth of 7% QoQ.
+Azure Application Gateway: 222 USD in May 2024, increase of 3% MoM, growth of 6% QoQ.
+Azure Functions: 211 USD in May 2024, increase of 2% MoM, growth of 4% QoQ.
+Azure Advisor: 198 USD in May 2024, increase of 1% MoM, growth of 2% QoQ.
+Azure Files: 182 USD in May 2024, increase of 3% MoM, growth of 4% QoQ.
+Azure Analysis Services: 147 USD in May 2024, decrease of 44% MoM, growth of -42% QoQ.
+SQL Managed Instance: 124 USD in May 2024, decrease of 78% MoM, growth of -83% QoQ.
+Application Insights: 119 USD in May 2024, increase of 3% MoM, growth of 0% QoQ.
+Azure Data Explorer: 107 USD in May 2024, increase of 93% MoM, growth of -47% QoQ.
+Azure Front Door Service: 106 USD in May 2024, increase of 108% MoM, growth of 264% QoQ.
+Cognitive Services: 106 USD in May 2024, decrease of 91% MoM, growth of 82% QoQ.
+Service Bus: 106 USD in May 2024, increase of 0% MoM, growth of -1% QoQ.
+Event Hubs: 96 USD in May 2024, increase of 103% MoM, growth of 125% QoQ.
+Media Services: 60 USD in May 2024, increase of 5% MoM, growth of 8% QoQ.
+MS Bing Services: 43 USD in May 2024, decrease of 86% MoM, growth of 487% QoQ.
+Azure Database for MySQL: 43 USD in May 2024, increase of 11% MoM, growth of -3% QoQ.
+Azure Purview: 31 USD in May 2024, increase of 24% MoM, growth of 26% QoQ.
+Automation: 31 USD in May 2024, decrease of 3% MoM, growth of -4% QoQ.
+Azure Load Testing: 20 USD in May 2024, decrease of 0% MoM, growth of 0% QoQ.
+Azure Data Factory v2: 12 USD in May 2024, increase of 12% MoM, growth of 121% QoQ.
