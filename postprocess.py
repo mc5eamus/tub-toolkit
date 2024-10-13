@@ -32,7 +32,7 @@ logging.basicConfig(filename='postprocess.log', level=logging.INFO)
 
 base_dir = os.getcwd()
 filename = os.path.join(base_dir, f"Annotated\\{deck_id} - Azure-Technical Update Briefing.pptx")
-filename_out = os.path.join(base_dir, "Annotated\\{deck_id} - Azure-Technical Update Briefing {customer_name}.pptx")
+filename_out = os.path.join(base_dir, f"Annotated\\{deck_id} - Azure-Technical Update Briefing {customer_name}.pptx")
 
 #make sure Source and Annotated folders exist under the base one
 if(not os.path.exists("Source")):
